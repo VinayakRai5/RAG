@@ -3,7 +3,7 @@
 This README provides an overview of the **Multi-Modal Retrieval-Augmented Generation (RAG) WebApp**, which is designed to integrate and process both textual and visual inputs to deliver enriched and context-aware responses.
 
 ---
-
+[![Watch the video](https://drive.google.com/file/d/1GCkF5NB3ekGGgnrU5kZ724T5AZ0UONEn/view?usp=sharing)]
 ## Table of Contents
 
 1. [Introduction](#introduction)
