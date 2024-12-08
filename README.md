@@ -9,11 +9,6 @@ This README provides an overview of the **Multi-Modal Retrieval-Augmented Genera
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [System Architecture](#system-architecture)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [APIs and Integrations](#apis-and-integrations)
-7. [Contributing](#contributing)
-8. [License](#license)
 
 ---
 
@@ -38,8 +33,8 @@ The **Multi-Modal RAG WebApp** combines the power of **retrieval-augmented gener
 
 ### Components
 
-1. **Frontend**: Built using modern web technologies (e.g., React, Vue.js) for responsive design.
-2. **Backend**: Powered by a Python/Node.js server that handles RAG pipelines and multi-modal processing.
+1. **Frontend**: Built using streamlit for responsive design
+2. **Backend**: Powered by a Python server that handles RAG pipelines and multi-modal processing.
 3. **Knowledge Base**: Supports multiple data sources, including:
    - Document stores (e.g., PDFs, CSVs, databases).
    - Web scraping and APIs for live data.
@@ -48,17 +43,3 @@ The **Multi-Modal RAG WebApp** combines the power of **retrieval-augmented gener
 
 ---
 
-## Installation
-
-### Prerequisites
-
-- **Python 3.8+** / **Node.js 14+**
-- Docker (optional, for containerized deployment)
-- GPU support (recommended for large-scale image and text processing)
-
-### Steps
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/multi-modal-rag-webapp.git
-   cd multi-modal-rag-webapp
